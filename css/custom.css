@@ -1,0 +1,28 @@
+h1, h5#headlines {
+    color: #3498db;
+    padding-top: 15px;
+}
+
+#headlines:first-child{ margin-top: 10px; }
+
+.title {
+    color: #2980b9;
+    margin-top: 20px;
+}
+
+.list { padding-top: 10px; }
+
+#projects{ font-size: small}
+
+.phone {
+    font-style: italic;
+    font-size: small;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.table td{ padding: 0; }
+
+.technologies { white-space: pre-line; }
+
+.pull-md-right { padding-top: 5px; }
